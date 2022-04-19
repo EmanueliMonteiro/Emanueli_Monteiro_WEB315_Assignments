@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samsug\\EmanueliMonteiroChat\\Shared\\EmanueliMonteiroChat.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\Shared\\EmanueliMonteiroChat.Shared.csproj",
       "projectName": "EmanueliMonteiroChat.Shared",
-      "projectPath": "C:\\Users\\samsug\\EmanueliMonteiroChat\\Shared\\EmanueliMonteiroChat.Shared.csproj",
+      "projectPath": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\Shared\\EmanueliMonteiroChat.Shared.csproj",
       "packagesPath": "C:\\Users\\samsug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samsug\\EmanueliMonteiroChat\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samsug\\AppData\\Roaming\\NuGet\\NuGet.Config"

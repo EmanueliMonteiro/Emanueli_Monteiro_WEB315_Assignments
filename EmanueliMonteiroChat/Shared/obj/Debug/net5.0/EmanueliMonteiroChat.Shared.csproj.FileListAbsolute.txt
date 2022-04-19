@@ -1,0 +1,12 @@
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\bin\Debug\net5.0\EmanueliMonteiroChat.Shared.deps.json
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\bin\Debug\net5.0\EmanueliMonteiroChat.Shared.dll
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\bin\Debug\net5.0\ref\EmanueliMonteiroChat.Shared.dll
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\bin\Debug\net5.0\EmanueliMonteiroChat.Shared.pdb
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.csproj.AssemblyReference.cache
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.AssemblyInfoInputs.cache
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.AssemblyInfo.cs
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.dll
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\ref\EmanueliMonteiroChat.Shared.dll
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Shared\obj\Debug\net5.0\EmanueliMonteiroChat.Shared.pdb
