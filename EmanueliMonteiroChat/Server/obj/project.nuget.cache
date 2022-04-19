@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xukzfgG4iE71FuAnX91oECCSQF0WzvuWD7KPzwiSh54KbUcug2Ka8ZUv8+uJZ4p2qXiyXpQhctkkUP4VQLojLA==",
+  "dgSpecHash": "LflMyMBM4ZSpzFTdobL0Iy12sz/njEp6DP6nsDw8LvXK4c/ooAb7ZaUaPwF4Edqv8rc45pOLxDTgmWTNXl1Ofw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samsug\\EmanueliMonteiroChat\\Server\\EmanueliMonteiroChat.Server.csproj",
+  "projectFilePath": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\Server\\EmanueliMonteiroChat.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",
@@ -11,7 +11,15 @@
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.15\\microsoft.aspnetcore.components.web.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.15\\microsoft.aspnetcore.components.webassembly.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\5.0.15\\microsoft.aspnetcore.components.webassembly.server.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.15\\microsoft.aspnetcore.connections.abstractions.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.15\\microsoft.aspnetcore.http.connections.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.15\\microsoft.aspnetcore.http.connections.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.15\\microsoft.aspnetcore.metadata.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.15\\microsoft.aspnetcore.signalr.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.15\\microsoft.aspnetcore.signalr.client.core.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.15\\microsoft.aspnetcore.signalr.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.15\\microsoft.aspnetcore.signalr.protocols.json.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
@@ -25,11 +33,12 @@
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.jsinterop\\5.0.15\\microsoft.jsinterop.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.15\\microsoft.jsinterop.webassembly.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
-    "C:\\Users\\samsug\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\samsug\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\samsug\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

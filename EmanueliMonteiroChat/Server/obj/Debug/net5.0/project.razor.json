@@ -3927,35 +3927,35 @@
         }
       },
       {
-        "HashCode": -1413204508,
+        "HashCode": -664364407,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.App",
+        "Name": "EmanueliMonteiroChat.Client.Pages.FetchData",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.App"
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.FetchData"
         }
       },
       {
-        "HashCode": -2119281517,
+        "HashCode": -1678155284,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.App",
+        "Name": "EmanueliMonteiroChat.Client.Pages.FetchData",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EmanueliMonteiroChat.Client.App"
+            "TagName": "EmanueliMonteiroChat.Client.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.App",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -3993,39 +3993,6 @@
         }
       },
       {
-        "HashCode": -664364407,
-        "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.FetchData",
-        "AssemblyName": "EmanueliMonteiroChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1678155284,
-        "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.FetchData",
-        "AssemblyName": "EmanueliMonteiroChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EmanueliMonteiroChat.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1209393908,
         "Kind": "Components.Component",
         "Name": "EmanueliMonteiroChat.Client.Pages.Index",
@@ -4059,55 +4026,35 @@
         }
       },
       {
-        "HashCode": 1632961167,
+        "HashCode": 1922257692,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+        "Name": "EmanueliMonteiroChat.Client.Chat",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Chat"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Chat"
         }
       },
       {
-        "HashCode": 1985993230,
+        "HashCode": 1526475457,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+        "Name": "EmanueliMonteiroChat.Client.Chat",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "EmanueliMonteiroChat.Client.Chat"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Chat",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4237,6 +4184,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "EmanueliMonteiroChat.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1632961167,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1985993230,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1413204508,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.App",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.App"
+        }
+      },
+      {
+        "HashCode": -2119281517,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.App",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmanueliMonteiroChat.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
