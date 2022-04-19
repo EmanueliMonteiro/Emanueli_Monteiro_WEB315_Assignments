@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
-namespace BlazorWebAssemblySignalRApp.Server.Hubs
+namespace EmanueliMonteiroChat.Server.Hubs
 {
     public class ChatHub : Hub
     {
@@ -9,5 +9,13 @@ namespace BlazorWebAssemblySignalRApp.Server.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", name, message);
         }
+
+        public async Task TypingMessage(string name, string message)
+        {
+            await Clients.Group.SendAsync("ReceiveMessage", name, message);
+        }
+
+
     }
 }
+

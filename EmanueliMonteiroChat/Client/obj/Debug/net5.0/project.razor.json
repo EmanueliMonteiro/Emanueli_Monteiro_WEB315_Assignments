@@ -223,68 +223,35 @@
         }
       },
       {
-        "HashCode": -949975447,
+        "HashCode": -1638595109,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Chat",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Counter",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Chat"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Chat"
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Counter"
         }
       },
       {
-        "HashCode": -1684536539,
+        "HashCode": 456634879,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Chat",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Counter",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EmanueliMonteiroChat.Client.Pages.Chat"
+            "TagName": "EmanueliMonteiroChat.Client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Chat",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1209393908,
-        "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Index",
-        "AssemblyName": "EmanueliMonteiroChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -299921529,
-        "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Index",
-        "AssemblyName": "EmanueliMonteiroChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EmanueliMonteiroChat.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Index",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,35 +289,68 @@
         }
       },
       {
-        "HashCode": -1638595109,
+        "HashCode": -1209393908,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Counter",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Index",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Counter"
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Index"
         }
       },
       {
-        "HashCode": 456634879,
+        "HashCode": -299921529,
         "Kind": "Components.Component",
-        "Name": "EmanueliMonteiroChat.Client.Pages.Counter",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Index",
         "AssemblyName": "EmanueliMonteiroChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EmanueliMonteiroChat.Client.Pages.Counter"
+            "TagName": "EmanueliMonteiroChat.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Counter",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -949975447,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Chat",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Chat"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Chat"
+        }
+      },
+      {
+        "HashCode": -1684536539,
+        "Kind": "Components.Component",
+        "Name": "EmanueliMonteiroChat.Client.Pages.Chat",
+        "AssemblyName": "EmanueliMonteiroChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmanueliMonteiroChat.Client.Pages.Chat"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "EmanueliMonteiroChat.Client.Pages.Chat",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
