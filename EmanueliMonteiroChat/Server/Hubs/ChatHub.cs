@@ -10,9 +10,9 @@ namespace EmanueliMonteiroChat.Server.Hubs
             await Clients.All.SendAsync("ReceiveMessage", name, message);
         }
 
-        public async Task TypingMessage(string name, string message)
+        public async Task TypingMessage(string name)
         {
-            await Clients.Group.SendAsync("ReceiveMessage", name, message);
+            await Clients.All.SendAsync("TypingMessage", name);
         }
 
 

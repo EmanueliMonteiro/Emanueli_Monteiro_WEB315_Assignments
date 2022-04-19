@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LflMyMBM4ZSpzFTdobL0Iy12sz/njEp6DP6nsDw8LvXK4c/ooAb7ZaUaPwF4Edqv8rc45pOLxDTgmWTNXl1Ofw==",
+  "dgSpecHash": "+EMgLNxoFpp4D31dFM3PYIjNDnGVC+ZqQbetaayGKUO6BGaAF52KVW0hg3vP2vDJliU2r2rZNozhUyEEpaZSjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\Server\\EmanueliMonteiroChat.Server.csproj",
+  "projectFilePath": "C:\\Users\\samsug\\Documents\\GitHub\\Emanueli_Monteiro_WEB315_Assignments\\EmanueliMonteiroChat\\server\\EmanueliMonteiroChat.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\samsug\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",

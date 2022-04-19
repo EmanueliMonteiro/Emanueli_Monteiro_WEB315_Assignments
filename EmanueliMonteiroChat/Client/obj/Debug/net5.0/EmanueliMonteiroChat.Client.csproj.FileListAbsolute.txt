@@ -660,3 +660,4 @@ C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMo
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\build-gz\a1brh7w+.gz
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Chat.razor.g.cs
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\Razor\Pages\Chat.razor.g.cs
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\scopedcss\Pages\Chat.razor.rz.scp.css

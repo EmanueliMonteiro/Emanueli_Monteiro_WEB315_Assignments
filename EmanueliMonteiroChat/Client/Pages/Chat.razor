@@ -15,7 +15,9 @@
         <input @bind="messageInput" size="50" />
     </label>
 </div>
-<div>incomin text message goes here</div>
+
+<!-- <div>incoming text message goes here</div> -->
+
 <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
 
 <hr>
@@ -48,23 +50,21 @@
         });
 //
 
-    hubConnection.On<string, string>("typingMessage", (name, message) =>
+    /*hubConnection.On<string, string>("typingMessage", (name, message) =>
         {
 
             var typingNewMessage = $"{name} is typing...";
             messages.Add(encodedMsg);
             StateHasChanged();
-        }
+        });
 
-
+        -- I tried to add this part, but my code starting to have many errors and I couldn't fix by myself.
+*/
         await hubConnection.StartAsync();
     }
 
     async Task Send() =>
         await hubConnection.SendAsync("SendMessage", nameInput, messageInput);
-
-
-
 
 
     public bool IsConnected =>

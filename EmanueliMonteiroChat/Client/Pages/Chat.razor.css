@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+label {
+    display: block;
+    font-size: 16pt;
+    color: rgb(1, 27, 51);
+}
+
+
+input {
+    display: block;
+    font-size: 16pt;
+    color: rgb(4, 49, 92);
+    background-color: #ffffff;
+}
+
+
+input:focus {
+    background-color:rgb(255, 255, 255);
+
+  }

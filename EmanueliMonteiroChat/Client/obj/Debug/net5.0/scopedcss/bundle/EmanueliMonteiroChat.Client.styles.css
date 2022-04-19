@@ -1,3 +1,25 @@
+/* /Pages/Chat.razor.rz.scp.css */
+@charset "utf-8";
+
+label[b-bcpkyjjgib] {
+    display: block;
+    font-size: 16pt;
+    color: rgb(1, 27, 51);
+}
+
+
+input[b-bcpkyjjgib] {
+    display: block;
+    font-size: 16pt;
+    color: rgb(4, 49, 92);
+    background-color: #ffffff;
+}
+
+
+input:focus[b-bcpkyjjgib] {
+    background-color:rgb(255, 255, 255);
+
+  }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-5hsiaw23vo] {
     position: relative;

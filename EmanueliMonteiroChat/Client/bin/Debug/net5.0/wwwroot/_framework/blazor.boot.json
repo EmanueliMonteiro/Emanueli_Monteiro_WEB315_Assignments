@@ -204,12 +204,12 @@
       "netstandard.dll": "sha256-qE0Q70OyVlHYY\/Y3nwMjfh+zissea9uhfvWMvPWfI7w=",
       "System.Private.CoreLib.dll": "sha256-pdkcl2+OojCfrhxX5eFmKI30wAmhL6s+sCLp7s175k0=",
       "EmanueliMonteiroChat.Shared.dll": "sha256-0I4mOecT2yzW7TKB545ZuHrz0IbifuBFOBOYzvzCNKE=",
-      "EmanueliMonteiroChat.Client.dll": "sha256-TmGtZ85hiFEH4bsFLbVyD3qIxap5GLEhSzQp3m+4eAY="
+      "EmanueliMonteiroChat.Client.dll": "sha256-xIdctjmVRi1\/O+ejML7Xvjp7tE\/3ntF41m9q\/ipZ03g="
     },
     "lazyAssembly": null,
     "pdb": {
       "EmanueliMonteiroChat.Shared.pdb": "sha256-7d8DfJZcMqf3X6hcKwr+LfE9PcF1UMwCMj+oVHQnt\/c=",
-      "EmanueliMonteiroChat.Client.pdb": "sha256-Vfy4MBX6wFCOVWsWICt+0kwRDNo9GOF8allI11CGbT4="
+      "EmanueliMonteiroChat.Client.pdb": "sha256-3E+Jav7tb8uYKCnCmTpmNICCnXEeBwTRDt3DH9Wcbl8="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ootDKSA6cNAbgJLmPhrHsPVvVqkGEYdRZxucC22LWjw=",
