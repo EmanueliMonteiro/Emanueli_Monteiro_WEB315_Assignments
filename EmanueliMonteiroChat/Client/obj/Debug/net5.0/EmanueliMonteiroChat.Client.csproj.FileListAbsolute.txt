@@ -636,8 +636,6 @@ C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMo
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\EmanueliMonteiroChat.Client.dll
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\ref\EmanueliMonteiroChat.Client.dll
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\EmanueliMonteiroChat.Client.pdb
-C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\RazorDeclaration\Chat.razor.g.cs
-C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\Razor\Chat.razor.g.cs
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll.gz
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\build-gz\1gu+V7Z3.gz
@@ -660,3 +658,5 @@ C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMo
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\build-gz\ZSO11RVM.gz
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\build-gz\vBWQIKpU.gz
 C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\build-gz\a1brh7w+.gz
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Chat.razor.g.cs
+C:\Users\samsug\Documents\GitHub\Emanueli_Monteiro_WEB315_Assignments\EmanueliMonteiroChat\Client\obj\Debug\net5.0\Razor\Pages\Chat.razor.g.cs
